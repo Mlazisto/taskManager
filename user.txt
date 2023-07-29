@@ -1,0 +1,7 @@
+admin, adm1n
+Lazola, Bravo
+Achilles, Troy
+spider-man, PeterParker
+barry, White
+blade, runner
+steve, Jobs
